@@ -15,6 +15,7 @@ Please download the datasets from the official links:
 - PACS [http://www.eecs.qmul.ac.uk/~dl307/project_iccv2017]
 - OfficeHome [https://hemanthdv.github.io/officehome-dataset]
 - TerraInc [https://beerys.github.io/CaltechCameraTraps]
+- DomainNet [http://ai.bu.edu/M3SDA/]
 
 ## Training from scratch
 
