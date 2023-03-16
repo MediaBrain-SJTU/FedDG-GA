@@ -1,5 +1,23 @@
 # Federated Domain Generalization with Generalization Adjustment - CVPR 2023
 
+This repo provides a demo for the CVPR 2023 paper "Federated Domain Generalization with Generalization Adjustment".
+
+To cite, please use:
+
+
+```latex
+@inproceedings{
+anonymous2023federated,
+title={Federated Domain Generalization with Generalization Adjustment},
+author={Ruipeng Zhang, Qinwei Xu, Jiangchao Yao, Ya Zhang, Qi Tian, Yanfeng Wang},
+booktitle={Conference on Computer Vision and Pattern Recognition 2023},
+year={2023},
+url={https://openreview.net/forum?id=9Bnhplqp-E}
+}
+
+```
+
+
 ## Requirements
 
 - Python 3.9.7
@@ -12,10 +30,10 @@
 Firstly create directory for log files and change the dataset path (`pacs_path`, `officehome_path` and `terrainc_path`) and log path (`log_count_path`) in configs/default.py.
 Please download the datasets from the official links:
 
-- PACS [http://www.eecs.qmul.ac.uk/~dl307/project_iccv2017]
-- OfficeHome [https://hemanthdv.github.io/officehome-dataset]
-- TerraInc [https://beerys.github.io/CaltechCameraTraps]
-- DomainNet [http://ai.bu.edu/M3SDA/]
+- [PACS](http://www.eecs.qmul.ac.uk/~dl307/project_iccv2017)
+- [OfficeHome](https://hemanthdv.github.io/officehome-dataset)
+- [TerraInc](https://beerys.github.io/CaltechCameraTraps)
+- [DomainNet](http://ai.bu.edu/M3SDA/)
 
 ## Training from scratch
 
