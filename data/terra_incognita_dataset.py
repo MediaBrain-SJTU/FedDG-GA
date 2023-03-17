@@ -62,7 +62,7 @@ class TerraInc_SingleDomain():
     @staticmethod
     def split_list(l, ratio):
         assert ratio > 0 and ratio < 1
-        random.shuffle(l) # 打乱list
+        random.shuffle(l)
         train_size = int(len(l)*ratio)
         train_l = l[:train_size]
         val_l = l[train_size:]
