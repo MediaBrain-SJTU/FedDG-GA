@@ -31,6 +31,5 @@ class Classification(object):
         result_dict = {}
         result_dict['acc'] = float(self.correct_count) / float(self.total_count)
         result_dict['loss'] = float(self.loss) / float(self.total_count)
-        # 后续可以添加其他指标的计算 已经完成 
         self.init()
         return result_dict
