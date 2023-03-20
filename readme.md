@@ -40,6 +40,7 @@ Please download the datasets from the official links:
 We release the code for PACS dataset and the other two benchmarks can be applied by only changing the dataloader_obj in data/{officehome, terrainc}_dataset.py. All the five FedDG methods are released (FedAvg, FedProx, SCAFFOLD, AM, RSC).
 
 Then running the code:
+
 `
 python algorithms/fedavg/train_pacs_GA.py --test_domain p --lr 0.001 --batch_size 16 --comm 40 --model resnet18 --note debug
 `
