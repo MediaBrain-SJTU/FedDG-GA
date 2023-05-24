@@ -1,18 +1,19 @@
 # Federated Domain Generalization with Generalization Adjustment - CVPR 2023
 
 This repo provides a demo for the CVPR 2023 paper "Federated Domain Generalization with Generalization Adjustment".
+[paper link](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_Federated_Domain_Generalization_With_Generalization_Adjustment_CVPR_2023_paper.pdf)
 
 To cite, please use:
 
 
 ```latex
-@inproceedings{
-anonymous2023federated,
-title={Federated Domain Generalization with Generalization Adjustment},
-author={Ruipeng Zhang, Qinwei Xu, Jiangchao Yao, Ya Zhang, Qi Tian, Yanfeng Wang},
-booktitle={Conference on Computer Vision and Pattern Recognition 2023},
-year={2023},
-url={https://openreview.net/forum?id=9Bnhplqp-E}
+@InProceedings{Zhang_2023_CVPR,
+    author    = {Zhang, Ruipeng and Xu, Qinwei and Yao, Jiangchao and Zhang, Ya and Tian, Qi and Wang, Yanfeng},
+    title     = {Federated Domain Generalization With Generalization Adjustment},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2023},
+    pages     = {3954-3963}
 }
 
 ```
