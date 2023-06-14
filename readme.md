@@ -1,5 +1,7 @@
 # Federated Domain Generalization with Generalization Adjustment - CVPR 2023
 
+[![Alt text](https://img.youtube.com/vi/EESJrJGCSR4/0.jpg)](https://www.youtube.com/watch?v=EESJrJGCSR4)
+
 This repo provides a demo for the CVPR 2023 paper "Federated Domain Generalization with Generalization Adjustment".
 [paper link](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_Federated_Domain_Generalization_With_Generalization_Adjustment_CVPR_2023_paper.pdf)
 
