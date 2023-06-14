@@ -4,7 +4,7 @@
 [![Alt text](https://img.youtube.com/vi/EESJrJGCSR4/0.jpg)](https://www.youtube.com/watch?v=EESJrJGCSR4)
 
 ## Poster of our work
-![image](./imgs/FedDG-poster-5120.png)
+![image](./imgs/FedDG-new-5120.png)
 
 ## Paper of our work
 This repo provides a demo for the CVPR 2023 paper "Federated Domain Generalization with Generalization Adjustment".
